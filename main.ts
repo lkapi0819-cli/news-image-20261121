@@ -3,12 +3,12 @@
 //
 // The poster beside this file (entry.png, a JPEG under a .png name, which
 // the gate allows: it reads the first bytes, not the name) sums up Saturday
-// 21 November 2026 in its full-day edition: BepiColombo is captured by
-// Mercury after an eight-year journey, NATO's chief flies to Warsaw to
-// guarantee Poland's defence after the missile incursion, the Kryvyi Rih
-// toll rises, the global market rout deepens (chip index down a tenth,
-// Taiwan bans short selling), Iran hits a civilian plant in Bahrain, the
-// claimed AI-assisted proof of the Riemann hypothesis is raced through
+// 21 November 2026: Russian missiles fall in Poland and NATO's chief flies
+// to Warsaw to guarantee the alliance's defence, BepiColombo is captured
+// by Mercury after an eight-year journey, the Kryvyi Rih toll rises, the
+// global market rout deepens (chip index down a tenth, Taiwan bans short
+// selling), Iran hits a civilian plant in Bahrain, the claimed
+// AI-assisted proof of the Riemann hypothesis is raced through
 // verification, and Britain and the EU sign their Brussels deals.
 //
 // This program copies that image to the output directory untouched, so
